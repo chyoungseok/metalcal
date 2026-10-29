@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Metal Calendar · 메탈 캘린더",
+  "short_name": "메탈캘린더",
+  "description": "기기 안에만 저장되는 개인용 캘린더 · 할 일 · 아이젠하워 매트릭스 · 뽀모도로",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#121417",
+  "theme_color": "#1d2126",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
